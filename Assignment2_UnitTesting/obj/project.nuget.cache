@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KKeg3FY7l3NZuZ26Xm13WWT0F9e3RSKKrq2F0K8elR4n30G1qMxzg6v2AvEA+EAyWMoaimdKNxHa3w2MyA+1EQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\navjo\\Desktop\\Mobile Solutions Development\\Assignment_2\\Assignment2_UnitTesting\\Assignment2_UnitTesting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\navjo\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\navjo\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\navjo\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\navjo\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}

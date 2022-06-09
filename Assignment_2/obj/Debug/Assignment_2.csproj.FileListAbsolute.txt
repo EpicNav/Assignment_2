@@ -1,0 +1,8 @@
+C:\Users\navjo\Desktop\Mobile Solutions Development\Assignment_2\Assignment_2\bin\Debug\Assignment_2.exe.config
+C:\Users\navjo\Desktop\Mobile Solutions Development\Assignment_2\Assignment_2\bin\Debug\Assignment_2.exe
+C:\Users\navjo\Desktop\Mobile Solutions Development\Assignment_2\Assignment_2\bin\Debug\Assignment_2.pdb
+C:\Users\navjo\Desktop\Mobile Solutions Development\Assignment_2\Assignment_2\obj\Debug\Assignment_2.csproj.AssemblyReference.cache
+C:\Users\navjo\Desktop\Mobile Solutions Development\Assignment_2\Assignment_2\obj\Debug\Assignment_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\navjo\Desktop\Mobile Solutions Development\Assignment_2\Assignment_2\obj\Debug\Assignment_2.csproj.CoreCompileInputs.cache
+C:\Users\navjo\Desktop\Mobile Solutions Development\Assignment_2\Assignment_2\obj\Debug\Assignment_2.exe
+C:\Users\navjo\Desktop\Mobile Solutions Development\Assignment_2\Assignment_2\obj\Debug\Assignment_2.pdb
